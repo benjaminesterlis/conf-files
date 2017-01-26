@@ -1,1 +1,1 @@
-# ycm
+# Configurations
